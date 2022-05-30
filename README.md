@@ -1,2 +1,2 @@
-# sc-test-package
+# sg-test-package
 test
